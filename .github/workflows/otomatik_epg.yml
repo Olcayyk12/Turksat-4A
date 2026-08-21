@@ -1,0 +1,25 @@
+name: Otomatik EPG
+on:
+  schedule:
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Python Kur
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      - name: Kütüphaneleri Yükle
+        run: pip install requests beautifulsoup4
+      - name: Kodu Çalıştır
+        run: python epg_olustur.py
+      - name: Kaydet
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'action@github.com'
+          git add epg.xml
+          git commit -m "Guncellendi" || exit 0
+          git push

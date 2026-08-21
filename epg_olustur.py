@@ -5,7 +5,6 @@ import xml.etree.ElementTree as ET
 
 tv = ET.Element('tv')
 
-# Kanal Tanımı
 channel = ET.SubElement(tv, 'channel', id='ShowTV.tr')
 display_name = ET.SubElement(channel, 'display-name')
 display_name.text = "Show TV"
@@ -22,12 +21,11 @@ try:
         soup = BeautifulSoup(response.content, 'html.parser')
         bugun = datetime.now().strftime("%Y%m%d")
         
-        # Show TV'nin güncel site yapısındaki yayın öğelerini tara
-        items = soup.select('div.stream-item, li.stream-item, ul.broadcast-list li')
+        items = soup.find_all(['li', 'div'], class_=lambda c: c and 'stream' in c)
         
         for item in items:
-            saat_elem = item.select_one('.time, span.time, div.time')
-            baslik_elem = item.select_one('.title, span.title, div.title, h3')
+            saat_elem = item.find(class_=lambda c: c and 'time' in c)
+            baslik_elem = item.find(class_=lambda c: c and ('title' in c or 'name' in c))
             
             if saat_elem and baslik_elem:
                 saat = saat_elem.text.strip().replace(":", "")
@@ -40,9 +38,7 @@ try:
                 title = ET.SubElement(programme, 'title', lang="tr")
                 title.text = baslik
 except Exception as e:
-    print(f"Web kazıma hatası: {e}")
+    print(f"Hata: {e}")
 
-# XML Kaydet
 tree = ET.ElementTree(tv)
 tree.write("epg.xml", encoding="utf-8", xml_declaration=True)
-)

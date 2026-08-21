@@ -1,4 +1,4 @@
 #EXTM3U url-tvg="https://iptv-epg.org/guides/tr.xml" x-tvg-url="https://iptv-epg.org/guides/tr.xml"
 
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Show_TV_logo.svg/512px-Show_TV_logo.svg.png", Show TV HD
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW HD" tvg-logo="https://github.com/Olcayyk12/Turksat-4A/blob/main/ei_1787329909699-removebg-preview.png", Show TV HD
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8

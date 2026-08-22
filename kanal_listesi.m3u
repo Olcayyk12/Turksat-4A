@@ -29,5 +29,5 @@ https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
 #EXTINF:-1 tvg-id="SemerkandTV.tr" tvg-name="Semerkand Tv" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/1787378147567.jpg", SEMERKAND HD TV
 https://semerkandtv.daioncdn.net/semerkandtv/semerkandtv.m3u8
-#EXTINF:-1 tvg-id="Tv2.tr" tvg-name="Tv 2" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/Tv2_logo_(2026).png", TV 2 HD
+#EXTINF:-1 tvg-id="Teve2.tr" tvg-name="teve2" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/Tv2_logo_(2026).png", TV 2 HD
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8

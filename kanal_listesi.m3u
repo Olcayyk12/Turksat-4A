@@ -25,3 +25,5 @@ https://tv-trthaber.medya.trt.com.tr/master_1440.m3u8
 https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
 #EXTINF:-1 tvg-id="Tvnet.tr" tvg-name="Tvnet" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/tvnet-logo-749927866.png", TVNET HD
 https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
+#EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="Haber Turk" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/BackgroundEraser_20260822_084338281.png", HABERTÜRK HD
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8

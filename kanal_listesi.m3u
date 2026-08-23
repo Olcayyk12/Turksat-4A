@@ -31,8 +31,8 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3
 https://semerkandtv.daioncdn.net/semerkandtv/semerkandtv.m3u8
 #EXTINF:-1 tvg-id="teve2.tr" tvg-name="teve2" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/Tv2_logo_(2026).png", TV 2 HD
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8
-#EXTINF:-1 tvg-id="ntv" tvg-name="ntv" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/BackgroundEraser_20260822_093628512.png", NTV HD
-https://sivrice.canlitvizle.tv/ntv.m3u8
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="ntv" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/BackgroundEraser_20260822_093628512.png", NTV HD
+https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
 #EXTINF:-1 tvg-id="cnnt" tvg-name="Cnn t" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/72-724432_cnn-trk-logo-cnn-trk-clipart-4141909418.png", CNN TÜRK HD
 J.M3U
 #EXTINF:-1 tvg-id="Trtturk.tr" tvg-name="Trt Turk" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/BackgroundEraser_20260822_095915693.png", TRT TÜRK HD

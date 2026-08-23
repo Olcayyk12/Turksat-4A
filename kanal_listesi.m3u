@@ -43,5 +43,5 @@ https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="Haber Global" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/ei_1787415067044-removebg-preview.png", HABER GLOBAL HD
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
-#EXTINF:-1 tvg-id="Blommberg.tr" tvg-name="Bloomberg Ht" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/bloomberg-htnin-sahibi-kim-kapandi-mi-17575731219068-3510739266.jpg", BLOOMBERG HT HD
+#EXTINF:-1 tvg-id="BlommbergHT.tr" tvg-name="Bloomberg HT" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/bloomberg-htnin-sahibi-kim-kapandi-mi-17575731219068-3510739266.jpg", BLOOMBERG HT HD
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8

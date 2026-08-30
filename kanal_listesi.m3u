@@ -79,6 +79,8 @@ https://canli.kontv.com.tr/live/kontv.m3u8
 https://
 #EXTINF:-1 tvg-id="Trtarabi.tr" tvg-name="Trt Arabi" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/logos/ei_1788091386351-removebg-preview.png", TRT ARABI HD
 https://tv-trtarabi.medya.trt.com.tr/master_1440.m3u8
+#EXTINF:-1 tvg-id="Kanalb.tr" tvg-name="Kanal B" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/logos/BackgroundEraser_20260830_151929703.png", KANAL B
+https://tv.kanalb.tr/hls/kanalb/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/logo_alem_fm-1304960427.png" radio="true", ALEM FM
 https://turkmedya.radyotvonline.net/turkmedya/alemfm.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/logo_alem_fm-1304960427.png" radio="true", ALEM FM

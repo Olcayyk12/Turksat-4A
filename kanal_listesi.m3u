@@ -59,3 +59,5 @@ https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 https://turkmedya.radyotvonline.net/turkmedya/alemfm.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/logo_alem_fm-1304960427.png" group-title="Radyolar" radio="true", ALEM FM
 http://turkmedya.radyotvonline.net/alemfmaac
+#EXTINF:-1 tvg-type="audio" radio="true" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/logo_alem_fm-1304960427.png" group-title="Radyolar", ALEM FM
+https://turkmedya.radyotvonline.net/turkmedya/alemfm.stream/playlist.m3u8

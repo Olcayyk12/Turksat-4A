@@ -55,11 +55,11 @@ https://tv-trtworld.medya.trt.com.tr/master_1440.m3u8
 https://ensonhaber-live.ercdn.net/tv100/tv100_1080p.m3u8
 #EXTINF:-1 tvg-id="flashhaber.tr" tvg-name="Flash Haber" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/logo-v4-49838623.png", FLASH HABER HD
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
-#EXTINF:-1 tvg-id="Akittv.tr" tvg-name="Akit Tv" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/logos/akit.png" group-title="Türksat - Haber", AKIT TV HD
+#EXTINF:-1 tvg-id="Akittv.tr" tvg-name="Akit Tv" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/logos/akit.png", AKIT TV HD
 https://akit-tv-yayin-linki.m3u8
-#EXTINF:-1 tvg-id="Fm.tr" tvg-name="Fm Tv" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/logos/fmtv.png" group-title="Türksat - Dini", FM TV
+#EXTINF:-1 tvg-id="Fm.tr" tvg-name="Fm Tv" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/logos/fmtv.png", FM TV
 https://fmtv-yayin-linki.m3u8
-#EXTINF:-1 tvg-id="Trt2.tr" tvg-name="Trt 2" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/logos/192e4d114978259.604668a328a66-1310166943.png" group-title="Türksat - Kültür", TRT 2 HD
+#EXTINF:-1 tvg-id="Trt2.tr" tvg-name="Trt 2" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/logos/192e4d114978259.604668a328a66-1310166943.png", TRT2 HD
 https://tv-trt2.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/logo_alem_fm-1304960427.png" radio="true", ALEM FM
 https://turkmedya.radyotvonline.net/turkmedya/alemfm.stream/playlist.m3u8

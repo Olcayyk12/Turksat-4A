@@ -28,7 +28,7 @@ https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="Haber Turk" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/BackgroundEraser_20260822_084338281.png", HABERTÜRK HD
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
 #EXTINF:-1 tvg-id="SemerkandTV.tr" tvg-name="Semerkand Tv" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/1787378147567.jpg", SEMERKAND HD
-https://semerkandtv.daioncdn.net/semerkandtv/semerkandtv.m3u8
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/mt_0.m3u8
 #EXTINF:-1 tvg-id="teve2.tr" tvg-name="teve2" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/Tv2_logo_(2026).png", TV2 HD
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8
 #EXTINF:-1 tvg-id="ntv.tr" tvg-name="ntv" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/BackgroundEraser_20260822_093628512.png", NTV
@@ -54,7 +54,7 @@ https://tv-trtworld.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 tvg-id="Tv100.tr" tvg-name="Tv100" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/TV100-953551068.png", TV 100 HD
 https://ensonhaber-live.ercdn.net/tv100/tv100_1080p.m3u8
 #EXTINF:-1 tvg-id="flashhaber.tr" tvg-name="Flash Haber" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/logo-v4-49838623.png", FLASH HABER HD
-https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
+https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/mt_1.m3u8
 #EXTINF:-1 tvg-id="Akittv.tr" tvg-name="Akit Tv" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/logos/akit.png", AKIT TV HD
 https://akit-tv-yayin-linki.m3u8
 #EXTINF:-1 tvg-id="Fm.tr" tvg-name="Fm Tv" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/logos/fmtv.png", FM TV
@@ -71,6 +71,10 @@ http://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8
 http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
 #EXTINF:-1 tvg-id="Halk.tr" tvg-name="Halk Tv" tvg-logo="", HALK TV HD
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
+#EXTINF:-1 tvg-id="Tv5.tr" tvg-name="Tv 5" tvg-logo="", TV 5
+https://
+#EXTINF:-1 tvg-id="Kontv.tr" tvg-name="Kon tv" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/logos/kontv-logo-26656D89C2-seeklogo.com.png", KON TV
+https://canli.kontv.com.tr/live/kontv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/logo_alem_fm-1304960427.png" radio="true", ALEM FM
 https://turkmedya.radyotvonline.net/turkmedya/alemfm.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/logo_alem_fm-1304960427.png" radio="true", ALEM FM

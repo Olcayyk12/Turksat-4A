@@ -75,6 +75,8 @@ https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 https://
 #EXTINF:-1 tvg-id="Kontv.tr" tvg-name="Kon tv" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/logos/kontv-logo-26656D89C2-seeklogo.com.png", KON TV
 https://canli.kontv.com.tr/live/kontv.m3u8
+#EXTINF:-1 tvg-id="Ulusal1.tr" tvg-name="Ulusal 1 tv" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/logos/ulusal-tv-tr-3946942511.png", ULUSAL 1 TV
+https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/logo_alem_fm-1304960427.png" radio="true", ALEM FM
 https://turkmedya.radyotvonline.net/turkmedya/alemfm.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/logo_alem_fm-1304960427.png" radio="true", ALEM FM

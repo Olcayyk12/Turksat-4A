@@ -63,6 +63,8 @@ https://fmtv-yayin-linki.m3u8
 https://tv-trt2.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 tvg-id="Trtavaz.tr" tvg-name="Trt Avaz" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/logos/TRT-Avaz-Logo-2025-2766821425.png", TRT AVAZ HD
 https://tv-trtavaz.medya.trt.com.tr/master_1440.m3u8
+#EXTINF:-1 tvg-id="Trtkurdi.tr" tvg-name="Trt Kurdi" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/logos/trt-kurdi-logo-png_seeklogo-612615-911082892.png", TRT KURDI HD
+https://tv-trtkurdi.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/logo_alem_fm-1304960427.png" radio="true", ALEM FM
 https://turkmedya.radyotvonline.net/turkmedya/alemfm.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/logo_alem_fm-1304960427.png" radio="true", ALEM FM

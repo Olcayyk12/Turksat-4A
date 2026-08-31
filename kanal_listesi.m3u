@@ -1,33 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/ei_1787343615613-removebg-preview.png", TRT1 HD
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/ei_1787343615613-removebg-preview.png" group-title="TURKSAT 6A", TRT1 HD
 https://tv-trt1.medya.trt.com.tr/master_1440.m3u8
-#EXTINF:-1 tvg-id="Atv.tr" tvg-name="ATV" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/ei_1787345719197-removebg-preview.png", ATV
+#EXTINF:-1 tvg-id="Atv.tr" tvg-name="ATV" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/ei_1787345719197-removebg-preview.png" group-title="TURKSAT 6A", ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
-#EXTINF:-1 tvg-id="Kanald.tr" tvg-name="Kanal D" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/kanal_d_logo_freelogovectors.net_-4290191117.png", KANAL D HD
+#EXTINF:-1 tvg-id="Kanald.tr" tvg-name="Kanal D" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/kanal_d_logo_freelogovectors.net_-4290191117.png" group-title="TURKSAT 6A", KANAL D HD
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Star TV" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/BackgroundEraser_20260822_055907297.png", STAR TV
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Star TV" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/BackgroundEraser_20260822_055907297.png" group-title="TURKSAT 6A", STAR TV
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/ei_1787329909699-removebg-preview.png", SHOW HD
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/ei_1787329909699-removebg-preview.png" group-title="TURKSAT 6A", SHOW HD
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
-#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="Beyaz TV" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/ei_1787369933173-removebg-preview.png", BEYAZ TV HD
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="Beyaz TV" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/ei_1787369933173-removebg-preview.png" group-title="TURKSAT 6A", BEYAZ TV HD
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
-#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Kanal 7" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/BackgroundEraser_20260822_070000722.png", KANAL 7 HD
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Kanal 7" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/BackgroundEraser_20260822_070000722.png" group-title="TURKSAT 6A", KANAL 7 HD
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-#EXTINF:-1 tvg-id="Tv8.tr" tvg-name="Tv 8" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/BackgroundEraser_20260822_072045115.png", TV8
+#EXTINF:-1 tvg-id="Tv8.tr" tvg-name="Tv 8" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/BackgroundEraser_20260822_072045115.png" group-title="TURKSAT 6A", TV8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
-#EXTINF:-1 tvg-id="NowTV.tr" tvg-name="Now TV" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/BackgroundEraser_20260822_073112297.png", NOW HD
+#EXTINF:-1 tvg-id="NowTV.tr" tvg-name="Now TV" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/BackgroundEraser_20260822_073112297.png" group-title="TURKSAT 6A", NOW HD
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="Ulke TV" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/BackgroundEraser_20260822_074454126.png", ULKE TV HD
+#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="Ulke TV" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/BackgroundEraser_20260822_074454126.png" group-title="TURKSAT 6A", ULKE TV HD
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTINF:-1 tvg-id="Trthaber.tr" tvg-name="Trt Haber" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/image-247926739.png", TRT HABER HD
 https://tv-trthaber.medya.trt.com.tr/master_1440.m3u8
-#EXTINF:-1 tvg-id="Ahaber.tr" tvg-name="A Haber" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/blob/main/ei_1787375606297-removebg-preview%20(1).png", A HABER HD
+#EXTINF:-1 tvg-id="Ahaber.tr" tvg-name="A Haber" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/blob/main/ei_1787375606297-removebg-preview%20(1).png", group-title="TURKSAT 6A", A HABER HD
 https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
 #EXTINF:-1 tvg-id="Tvnet.tr" tvg-name="Tvnet" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/tvnet-logo-749927866.png", TVNET HD
 https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
-#EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="Haber Turk" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/BackgroundEraser_20260822_084338281.png", HABERTÜRK HD
+#EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="Haber Turk" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/BackgroundEraser_20260822_084338281.png" group-title="TURKSAT 6A", HABERTÜRK HD
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
-#EXTINF:-1 tvg-id="SemerkandTV.tr" tvg-name="Semerkand Tv" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/1787378147567.jpg", SEMERKAND HD
+#EXTINF:-1 tvg-id="SemerkandTV.tr" tvg-name="Semerkand Tv" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/1787378147567.jpg" group-title="TURKSAT 6A", SEMERKAND HD
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/mt_0.m3u8
 #EXTINF:-1 tvg-id="teve2.tr" tvg-name="teve2" tvg-logo="https://raw.githubusercontent.com/Olcayyk12/Turksat-4A/main/Tv2_logo_(2026).png", TV2 HD
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8

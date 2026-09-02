@@ -1,27 +1,33 @@
 import subprocess
-import re
 
-# Eklenecek YouTube Canlı Yayın Bilgileri
 YOUTUBE_URL = "https://www.youtube.com/live/6QZ_qc75ihU"
-CHANNEL_MARKER = "Yonhap News TV"  # playlist.m3u dosyasındaki kanal adı arama etiketi
+CHANNEL_MARKER = "Yonhap News TV"
 
 try:
-    # yt-dlp ile canlı yayının ham m3u8 adresini alıyoruz
+    # yt-dlp ile canlı yayının m3u8 adresini çekiyoruz
     cmd = f"yt-dlp -g '{YOUTUBE_URL}'"
     m3u8_url = subprocess.check_output(cmd, shell=True).decode('utf-8').strip()
 
-    # M3U dosyasını oku
+    # m3u dosyasını oku ve satır satır güncelle
     with open("playlist.m3u", "r", encoding="utf-8") as f:
-        content = f.read()
+        lines = f.readlines()
 
-    # M3U içindeki ilgili kanalın m3u8 linkini yenisiyle değiştir
-    pattern = rf'(#EXTINF:-1.*{CHANNEL_MARKER}.*\n)(http[^\n]+)'
-    new_content = re.sub(pattern, rf'\g<1>{m3u8_url}', content)
+    new_lines = []
+    update_next = False
 
-    # Güncellenmiş dosyayı kaydet
+    for line in lines:
+        if update_next:
+            new_lines.append(m3u8_url + "\n")
+            update_next = False
+        else:
+            new_lines.append(line)
+            if CHANNEL_MARKER in line:
+                update_next = True
+
     with open("playlist.m3u", "w", encoding="utf-8") as f:
-        f.write(new_content)
+        f.writelines(new_lines)
 
-    print("Yonhap News TV yayın adresi başarıyla güncellendi.")
+    print("Yayın linki başarıyla güncellendi.")
 except Exception as e:
-    print(f"Hata oluştu: {e}")
+    print(f"Hata
+    : {e}")

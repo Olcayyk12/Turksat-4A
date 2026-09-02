@@ -87,5 +87,5 @@ http://turkmedya.radyotvonline.net/alemfmaac
 https://stream.radyo45lik.com:4545/
 #EXTINF:-1 tvg-id="KRBD2400001XD" tvg-name="YTN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2400001XD_20260422T013918SQUARE.png" group-title="Samsung TV Plus KR Channels", YTN
 https://jmp2.uk/stvp-KRBD2400001XD
-#EXTINF:-1 tvg-name="Yonhap News TV" tvg-logo="https://i.imgur.com/example.png" group-title="Samsung TV Plus KR Channels",Yonhap News TV
-http://placeholder-link-will-be-updated-by-script.m3u8
+#EXTINF:-1 tvg-name="Yonhap News TV" group-title="Korean",Yonhap News TV
+http://placeholder-link.m3u8
